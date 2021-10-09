@@ -1,0 +1,19 @@
+.body{
+  background-color:snow;
+}
+.header{
+  background-color: #23180D;
+}
+.footer{
+  background-color: #23180D;
+}
+.cart{
+position: fixed;
+background-color:white;
+}
+.bg-card{
+  background-color: skyblue;
+}
+.rating{
+  color:black;
+}
